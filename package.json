@@ -1,0 +1,26 @@
+{
+  "name": "electron-noveljs-boilerplate",
+  "version": "0.1.0",
+  "description": "Create standalone Novel.js games",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ville Talonpoika <ville@talonpoika.net> (http://nanof.us)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nanofus/electron-noveljs-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nanofus/electron-noveljs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Nanofus/electron-noveljs-boilerplate#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.8"
+  },
+  "dependencies": {
+    "novel-js": "^0.3.3",
+    "vue": "^1.0.16"
+  }
+}
