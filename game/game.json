@@ -1,0 +1,43 @@
+{
+  "gameName": "testGame",
+  "version": "1.0.0",
+  "inventories": [
+  ],
+  "scenes": [
+    {
+      "name": "start",
+      "text": "<h1>Start scene</h1>",
+      "choices": [
+        {
+          "text": "Start",
+          "name": "Continue",
+          "nextScene": "start"
+        }
+      ]
+    }
+  ],
+  "tagPresets": [
+  ],
+  "settings": {
+    "debugMode": true,
+    "saveMode": "text",
+    "showSaveButtons": true,
+    "alwaysShowDisabledChoices": false,
+    "floatPrecision": 5,
+    "scrollSettings": {
+      "defaultScrollSpeed": 60,
+      "textSkipEnabled": true,
+      "skipWithKeyboard": false,
+      "continueWithKeyboard": true,
+      "fastScrollWithKeyboard": true,
+      "fastScrollSpeedMultiplier": 20,
+      "tickFreqThreshold": 100
+    },
+    "soundSettings": {
+      "soundVolume": 0.5,
+      "musicVolume": 0.5,
+    }
+  },
+  "sounds": [
+  ]
+}
