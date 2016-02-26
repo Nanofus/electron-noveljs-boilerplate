@@ -1,5 +1,5 @@
 {
-  "gameName": "testGame",
+  "name": "test",
   "version": "1.0.0",
   "inventories": [
   ],
@@ -35,7 +35,7 @@
     },
     "soundSettings": {
       "soundVolume": 0.5,
-      "musicVolume": 0.5,
+      "musicVolume": 0.5
     }
   },
   "sounds": [

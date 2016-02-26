@@ -1,7 +1,7 @@
 {
   "name": "electron-noveljs-boilerplate",
-  "version": "0.1.1",
-  "description": "Create standalone Novel.js games",
+  "version": "0.2.0",
+  "description": "Create standalone Novel.js adventures!",
   "main": "app/main.js",
   "scripts": {
     "main": "app/main.js"
@@ -21,6 +21,6 @@
     "electron-prebuilt": "^0.36.8"
   },
   "dependencies": {
-    "novel-js": "^0.3.3"
+    "novel-js": "^0.4.0"
   }
 }
