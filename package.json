@@ -1,6 +1,6 @@
 {
   "name": "electron-noveljs-boilerplate",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Create standalone Novel.js adventures!",
   "main": "app/main.js",
   "scripts": {
@@ -18,9 +18,9 @@
   "keywords": ["electron","boilerplate","novel-js","noveljs","novel.js","novel","text adventure","game engine","choose your own adventure","visual novel","text game","game","adventure","fiction","prose","interactive fiction","interactive"],
   "homepage": "https://github.com/Nanofus/electron-noveljs-boilerplate#readme",
   "devDependencies": {
-    "electron-prebuilt": "^0.36.8"
+    "electron-prebuilt": "^0.37.4"
   },
   "dependencies": {
-    "novel-js": "^0.5.0"
+    "novel-js": "^0.6.0"
   }
 }
