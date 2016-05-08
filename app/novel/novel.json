@@ -2,6 +2,9 @@
   "name": "test",
   "version": "1.0.0",
   "inventories": [
+    [
+      { "name": "some_item", "value": 1 "hidden": true }
+    ]
   ],
   "scenes": [
     {
@@ -15,35 +18,5 @@
         }
       ]
     }
-  ],
-  "tagPresets": [
-  ],
-  "settings": {
-    "debugMode": true,
-    "saveMode": "text",
-    "showSaveButtons": true,
-    "alwaysShowDisabledChoices": false,
-    "floatPrecision": 5,
-    "scrollSettings": {
-      "defaultScrollSpeed": 60,
-      "textSkipEnabled": true,
-      "skipWithKeyboard": false,
-      "continueWithKeyboard": true,
-      "fastScrollWithKeyboard": true,
-      "fastScrollSpeedMultiplier": 20,
-      "tickFreqThreshold": 100
-    },
-    "soundSettings": {
-      "soundVolume": 0.5,
-      "musicVolume": 0.5
-    }
-  },
-  "sounds": [
-  ],
-  "externalText": [
-  ],
-  "externalJson": [
-  ],
-  "externalCsv": [
   ]
 }

@@ -1,7 +1,5 @@
 # electron-noveljs-boilerplate
 
-**Broken until Novel.js's default settings have been refactored**
-
 [![Dependency Status](https://david-dm.org/Nanofus/electron-noveljs-boilerplate.svg)](https://david-dm.org/Nanofus/electron-noveljs-boilerplate.js) [![devDependency Status](https://david-dm.org/Nanofus/novel.js/dev-status.svg)](https://david-dm.org/Nanofus/novel.js#info=devDependencies)
 [![npm version](https://badge.fury.io/js/electron-noveljs-boilerplate.svg)](https://badge.fury.io/js/electron-noveljs-boilerplate)
 

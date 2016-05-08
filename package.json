@@ -21,6 +21,6 @@
     "electron-prebuilt": "^0.37.8"
   },
   "dependencies": {
-    "novel-js": "^0.8.0"
+    "novel-js": "^0.8.1"
   }
 }
