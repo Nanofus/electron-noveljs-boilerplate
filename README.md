@@ -1,5 +1,7 @@
 # electron-noveljs-boilerplate
 
+**Broken until Novel.js's default settings have been refactored**
+
 [![Dependency Status](https://david-dm.org/Nanofus/electron-noveljs-boilerplate.svg)](https://david-dm.org/Nanofus/electron-noveljs-boilerplate.js) [![devDependency Status](https://david-dm.org/Nanofus/novel.js/dev-status.svg)](https://david-dm.org/Nanofus/novel.js#info=devDependencies)
 [![npm version](https://badge.fury.io/js/electron-noveljs-boilerplate.svg)](https://badge.fury.io/js/electron-noveljs-boilerplate)
 
@@ -8,7 +10,7 @@ A simple boilerplate for [Novel.js](http://github.com/Nanofus/novel.js) using [E
 ## Usage
 
 1. Install with `npm install electron-noveljs-boilerplate` or load the latest release zip.
-2. `npm install` to install Novel.js, Vue.js and Electron.
+2. `npm install` to install Novel.js and Electron.
 3. Run Electron by executing the `electron.exe` file in `node_modules/electron-prebuilt/dist/`.
 4. Drag `app/main.js` in to the Electron window to test the game.
 
