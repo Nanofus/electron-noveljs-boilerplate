@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "inventories": [
     [
-      { "name": "some_item", "value": 1 "hidden": true }
+      { "name": "some_item", "value": 1, "hidden": true }
     ]
   ],
   "scenes": [
